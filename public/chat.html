@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title style="color:rgb(219, 219, 233);font-family: 'Open Sans';font-size:30px;">DE_Chat | Deno Realtime Chat App</title>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="app.css">
+</head>
+
+<body class="page-login">
+  <form action="index.html" class="login-form">
+    <div class="form-header">
+      <h2 style="color:rgb(219, 219, 233);font-family: 'Open Sans';font-size:30px;" >DE_Chat(Deno Realtime Chat App)</h2>
+    </div>
+    <div class="form-content">
+      <div class="input-group">
+        <input type="text" placeholder="Enter your name" name="name">
+      </div>
+
+      <label style="color:rgb(219, 219, 233);font-family: 'Open Sans';font-size:15px;" >Choose a group to join to chat with your peers regarding interesting topics</label>
+      <label  style="color:rgb(219, 219, 233);font-family: 'Open Sans';font-size:15px;" for="cooking" class="category-item">
+        <input id="cooking" type="radio" name="group" value="Tech"> Tech
+      </label>
+      <label  style="color:rgb(219, 219, 233);font-family: 'Open Sans';font-size:15px;" for="node" class="category-item">
+        <input id="node" type="radio" name="group" value="Marketing"> Marketing
+      </label>
+      <label  style="color:rgb(219, 219, 233);font-family: 'Open Sans';font-size:15px;" for="deno" class="category-item">
+        <input id="deno" type="radio" name="group" value="Startups"> Startups
+      </label>
+      <label  style="color:rgb(219, 219, 233);font-family: 'Open Sans';font-size:15px;" for="php" class="category-item">
+        <input id="php" type="radio" name="group" value="Insights & Analytics"> Insights and Analytics
+      </label>
+    </div>
+    <div class="form-footer">
+      <button style="color:rgb(55, 55, 56);font-family: 'Open Sans';font-size:15px;"id="joinChatBtn">Login</button>
+    </div>
+  </form>
+</body>
+
+</html>
