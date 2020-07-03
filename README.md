@@ -12,6 +12,3 @@ To run follow the steps:
 6. open chat.html
 
 
-![alt text](https://github.com/yashraj2312/deno_realtime_chat/public/de1.png?raw=true)
-
-![alt text](https://github.com/yashraj2312/deno_realtime_chat/public/de3.png?raw=true)
