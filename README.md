@@ -11,6 +11,12 @@ To run follow the steps:
 5. In terminal type  `deno run--allow-net server.js`
 6. open chat.html
 
+## Demo 
+
+![sample_gif](https://raw.githubusercontent.com/yashraj2312/deno_realtime_chat/master/dechat.gif)
+
+
+## Screenshots
 
 ![de1](https://user-images.githubusercontent.com/48771399/86482481-a6761f00-bd6f-11ea-9442-1d0336c17e70.png)
 
