@@ -8,7 +8,7 @@ To run follow the steps:
 1. Fork the repository to make your own copy.
 2. Clone the repository.
 3. Install deno and other dependencies.
-4. Go the main directory where you have cloned the prject.
+4. Go the main directory where you have cloned the project.
 5. In terminal type  `deno run--allow-net server.js`
 6. open chat.html
 
