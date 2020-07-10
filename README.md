@@ -1,4 +1,5 @@
-# deno_realtime_chat
+# De_Chat
+
 A realtime chat application built using Deno.js and websockets where users can join a group of their choice to chat with their peers on interesting topics
 
 
