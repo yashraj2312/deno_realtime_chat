@@ -77,7 +77,7 @@ function onMessageReceived(event) {
       event.data.forEach(appendMessage);
   }
 }
-
+//Message is appended
 function appendMessage(message) {
   const messageEl = document.createElement("div");
   messageEl.className = `message message-${
