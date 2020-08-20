@@ -1,4 +1,5 @@
 // @ts-nocheck
+// client.js
 let ws;
 let chatUsersCtr = document.querySelector("#chatUsers");
 let chatUsersCount = document.querySelector("#chatUsersCount");
