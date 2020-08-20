@@ -1,3 +1,5 @@
+// chat.js
+
 // @ts-nocheck
 import { isWebSocketCloseEvent } from "https://deno.land/std/ws/mod.ts";
 import { v4 } from "https://deno.land/std/uuid/mod.ts";
