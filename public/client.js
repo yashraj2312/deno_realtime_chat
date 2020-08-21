@@ -90,7 +90,7 @@ function appendMessage(message) {
       `;
   chatMessagesCtr.appendChild(messageEl);
 }
-
+//get query function
 function getQueryParams() {
   const search = window.location.search.substring(1);
   const pairs = search.split("&");
